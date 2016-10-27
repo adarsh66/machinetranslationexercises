@@ -1,0 +1,55 @@
+Weights: p(e|f)=-1 p_lex(f|e)=-1 p(e)=-1
+BLEU: 24.59
+Weights: p(e|f)=-1 p_lex(f|e)=0 p(e)=-1
+BLEU: 24.90
+Weights: p(e|f)=-1 p_lex(f|e)=1 p(e)=-1
+BLEU: 24.96
+Weights: p(e|f)=0 p_lex(f|e)=-1 p(e)=-1
+BLEU: 24.28
+Weights: p(e|f)=0 p_lex(f|e)=0 p(e)=-1
+BLEU: 24.19
+Weights: p(e|f)=0 p_lex(f|e)=1 p(e)=-1
+BLEU: 24.49
+Weights: p(e|f)=1 p_lex(f|e)=-1 p(e)=-1
+BLEU: 24.71
+Weights: p(e|f)=1 p_lex(f|e)=0 p(e)=-1
+BLEU: 24.37
+Weights: p(e|f)=1 p_lex(f|e)=1 p(e)=-1
+BLEU: 24.63
+Weights: p(e|f)=-1 p_lex(f|e)=-1 p(e)=0
+BLEU: 25.12
+Weights: p(e|f)=-1 p_lex(f|e)=0 p(e)=0
+BLEU: 25.58
+Weights: p(e|f)=-1 p_lex(f|e)=1 p(e)=0
+BLEU: 25.36
+Weights: p(e|f)=0 p_lex(f|e)=-1 p(e)=0
+BLEU: 24.84
+Weights: p(e|f)=0 p_lex(f|e)=0 p(e)=0
+BLEU: 26.33
+Weights: p(e|f)=0 p_lex(f|e)=1 p(e)=0
+BLEU: 25.77
+Weights: p(e|f)=1 p_lex(f|e)=-1 p(e)=0
+BLEU: 25.00
+Weights: p(e|f)=1 p_lex(f|e)=0 p(e)=0
+BLEU: 26.63
+Weights: p(e|f)=1 p_lex(f|e)=1 p(e)=0
+BLEU: 26.21
+Weights: p(e|f)=-1 p_lex(f|e)=-1 p(e)=1
+BLEU: 25.45
+Weights: p(e|f)=-1 p_lex(f|e)=0 p(e)=1
+BLEU: 26.06
+Weights: p(e|f)=-1 p_lex(f|e)=1 p(e)=1
+BLEU: 26.21
+Weights: p(e|f)=0 p_lex(f|e)=-1 p(e)=1
+BLEU: 25.62
+Weights: p(e|f)=0 p_lex(f|e)=0 p(e)=1
+BLEU: 26.29
+Weights: p(e|f)=0 p_lex(f|e)=1 p(e)=1
+BLEU: 26.70
+Weights: p(e|f)=1 p_lex(f|e)=-1 p(e)=1
+BLEU: 25.50
+Weights: p(e|f)=1 p_lex(f|e)=0 p(e)=1
+BLEU: 26.43
+Weights: p(e|f)=1 p_lex(f|e)=1 p(e)=1
+BLEU: 27.35
+
